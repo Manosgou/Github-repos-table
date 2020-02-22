@@ -13,7 +13,7 @@ class App extends React.Component {
     data: [],
     isLoading: true,
     error: null,
-    username: 'mountaser'
+    username: 'USERNAME'
   };
 
   componentDidMount() {
