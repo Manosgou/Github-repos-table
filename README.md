@@ -7,7 +7,7 @@ This project is just an inspiration i got from a youtuber named [Davon Crawford 
 Bootstrap.
 
 
-Before you run the `npm start` command.Edit the `./src/App.js`
+Before you run the `$ npm start` command.Edit the `./src/App.js`
  ```javascript
 state = {
     data: [],
